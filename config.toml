@@ -16,6 +16,7 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
+ignoreErrors = ["error-disable-taxonomy"]
 disableKinds = ["taxonomy"]
 
 # Highlighting config
