@@ -18,7 +18,7 @@ TagLib is default.
 ## Ffmpeg
 Ffmpeg supports .tak, TagLib does not.
 
-DId not observe much difference between the two data-wise. ffmpeg had codec info?
+DId not observe much difference between the two data-wise. ffmpeg had codec info? doesnt make it to DB tho i dont think...
 
 parsed about 10 folders:
 
