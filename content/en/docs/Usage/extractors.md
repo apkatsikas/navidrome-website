@@ -17,3 +17,13 @@ TagLib is default.
 
 ## Ffmpeg
 Ffmpeg supports .tak, TagLib does not.
+
+DId not observe much difference between the two data-wise. ffmpeg had codec info?
+
+parsed about 10 folders:
+
+using taglib parsing took took 1.902329ms
+
+using ffmpeg parsing took took 361.204136ms
+
+prob wont make a big difference to most people?
